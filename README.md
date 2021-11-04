@@ -1,6 +1,6 @@
 ## Roadmap for development of the Institute of Assistive Technology Professionals (UK)
 
-- Develop set of standards
+- Develop set of standards (use EduAT competancy framework as a basis?)
 - Define tiers of membership;
 - - Member (free)
 - - Certified (subscription / application)
