@@ -1,4 +1,6 @@
-## Roadmap for development of the Institute of Assistive Technology Professionals (UK)
+## Institute of Assistive Technology Professionals (UK)
+
+# Roadmap for development of the new professional body, with the ultimate aim of creating a protected job title.
 
 - Develop set of standards (use EduAT competancy framework as a basis?)
 - Define tiers of membership;
