@@ -1,8 +1,10 @@
 # Institute of Assistive Technology Professionals (UK)
 
-## Roadmap for development of the new professional body, with the ultimate aim of creating a protected job title.
+## Roadmap for development of the new professional body <br />with the ultimate aim of creating a protected job title
 
-- Develop set of standards (use EduAT competancy framework as a basis?)
+### This is draft ideas. Please submit any proposed changes.
+
+- Develop set of standards <i>(use EduAT competancy framework as a basis?)</i>
 - Define tiers of membership;
 - - Member (free)
 - - Certified (subscription / application)
@@ -12,5 +14,5 @@
 
 ...
 
-- Membership fees eligable for VAT relief
-- Royal Charter:- protected job title
+- Membership subscription fees eligable for tax relief
+- Royal Charter: protected job title
