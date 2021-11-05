@@ -17,6 +17,7 @@ Please use the discussions area for comment and conversations around this develo
 - - Community?
 - - Resources?
 - Register non-profit CIO
+- Open bank account
 - Appoint secretary
 - Appoint panel to accredit Certified member applications
 
