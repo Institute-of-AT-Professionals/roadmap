@@ -16,7 +16,7 @@ Please use the discussions area for comment and conversations around this develo
 - Establish Member benefits:
 - - Community?
 - - Resources?
-- Register non-profit CIO
+- Register non-profit CIO (Ltd?)
 - Open bank account
 - Appoint secretary
 - Appoint panel to accredit Certified member applications
@@ -31,6 +31,9 @@ Please use the discussions area for comment and conversations around this develo
 - - RCT - http://therct.org.uk
 - - Health Care Science Practicioners: https://www.ahcs.ac.uk/about/the-healthcare-science-industry/healthcare-science-practitioners
 
+
+- - http://www.ircm.org.uk - new Case Managers registered body, draft standards available here:
+- - - https://togetherstronger.org.uk/wp-content/uploads/2021/11/IRCM-Standards-for-Consultation.pdf
 ...
 
 - Logo
