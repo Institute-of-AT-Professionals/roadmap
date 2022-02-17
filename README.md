@@ -31,6 +31,8 @@ Please use the discussions area for comment and conversations around this develo
 - - RCT - http://therct.org.uk
 - - Health Care Science Practicioners: https://www.ahcs.ac.uk/about/the-healthcare-science-industry/healthcare-science-practitioners
 
+-- All exisiting protected titles: https://www.gov.uk/government/publications/incorporation-and-names/annex-c-other-regulated-words-and-expressions--2
+
 
 - - http://www.ircm.org.uk - new Case Managers registered body, draft standards available here:
 - - - https://togetherstronger.org.uk/wp-content/uploads/2021/11/IRCM-Standards-for-Consultation.pdf
