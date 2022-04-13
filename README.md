@@ -36,7 +36,7 @@ Please use the discussions area for comment and conversations around this develo
 - - IET
 - - ImechE
 
--- All exisiting protected titles: https://www.gov.uk/government/publications/incorporation-and-names/annex-c-other-regulated-words-and-expressions--2
+- - All exisiting protected titles: https://www.gov.uk/government/publications/incorporation-and-names/annex-c-other-regulated-words-and-expressions--2
 
 
 - - http://www.ircm.org.uk - new Case Managers registered body, draft standards available here:
