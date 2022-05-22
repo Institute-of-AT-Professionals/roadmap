@@ -24,6 +24,12 @@ Please use the discussions area for comment and conversations around this develo
 ...
 
 ## Scoping:
+- Existing competancy frameworks / standards:
+- - https://tools.skillsforhealth.org.uk/competence-details/html/3904/
+- - https://www.techability.org.uk/techability-standards/
+- - EduAT Competancy Framework
+-
+
 - Existing member organisations / professional bodies / accreditations:
 - - BATA - https://www.bataonline.org.uk
 - - RESNA (ATP) - https://www.resna.org/Certification/Assistive-Technology-Professional-ATP
